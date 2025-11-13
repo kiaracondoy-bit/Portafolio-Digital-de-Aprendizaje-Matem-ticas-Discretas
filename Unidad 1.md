@@ -17,9 +17,9 @@
 - **1.6.** APLICACIONES TECNOLÓGICAS
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-#### 2.1. APE
-#### 2.2. ACD
-#### 2.3. AA
+#### 2.1. APRENDIZAJE PRÁCTICO EXPERIMENTAL
+#### 2.2. APRENDIZAJE EN CONTACTO CON EL DOCENTE
+#### 2.3. APRENDIZAJE AUTÓNOMO
 ---
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
@@ -76,8 +76,20 @@
 
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-#### ✏️ APE: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
-#### ✏️ ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
-#### ✏️ ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
-#### ✏️ AA. LECTURA Y EJERCICIOS
+#### ✏️ [APRENDIZAJE PRÁCTICO EXPERIMENTAL](Unidad%201/APE)
+
+  *  APE 1: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
+
+
+#### ✏️ [APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201/ACD)
+
+  *  ACD 1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
+
+
+  *  ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
+
+
+#### ✏️ [APRENDIZAJE AUTÓNOMO](Unidad%201/AA)
+
+  *  AA 1: LECTURA Y EJERCICIOS
 
