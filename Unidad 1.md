@@ -17,11 +17,9 @@
 - **1.6.** APLICACIONES TECNOLÓGICAS
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-
-#### ✏️ APE: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
-#### ✏️ ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
-#### ✏️ ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
-#### ✏️ AA. LECTURA Y EJERCICIOS
+#### ✏️ APE
+#### ✏️ ACD
+#### ✏️ AA
 
 ---
 
