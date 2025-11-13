@@ -35,13 +35,13 @@
 ### 🔹 1. LÓGICA Y LÓGICA MATEMÁTICA
 
 * **¿Qué es la Lógica?**
-    * [cite_start]Es la ciencia formal que estudia los principios de la demostración y la inferencia válida[cite: 10].
-    * [cite_start]Deriva del griego *λογική* (*logiké*), que significa "dotado de razón, intelectual"[cite: 10].
+    * Es la ciencia formal que estudia los principios de la demostración y la inferencia válida.
+    * Deriva del griego *λογική* (*logiké*), que significa "dotado de razón, intelectual".
 
 * **¿Qué es la Lógica Matemática?**
-    * [cite_start]Es una disciplina que trata de métodos de razonamiento[cite: 22].
-    * [cite_start]Proporciona reglas y técnicas para determinar si es o no válido un argumento dado[cite: 22].
-    * [cite_start]Se emplea en matemáticas para demostrar teoremas y en ciencias de la computación para verificar la corrección de programas[cite: 23, 24].
+    * Es una disciplina que trata de métodos de razonamiento.
+    * Proporciona reglas y técnicas para determinar si es o no válido un argumento dado.
+    * Se emplea en matemáticas para demostrar teoremas y en ciencias de la computación para verificar la corrección de programas.
 
 ---
 
