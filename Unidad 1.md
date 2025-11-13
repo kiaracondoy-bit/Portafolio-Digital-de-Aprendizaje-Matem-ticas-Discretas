@@ -17,9 +17,9 @@
 - **1.6.** APLICACIONES TECNOLÓGICAS
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-#### 2.1. APRENDIZAJE PRÁCTICO EXPERIMENTAL
-#### 2.2. APRENDIZAJE EN CONTACTO CON EL DOCENTE
-#### 2.3. APRENDIZAJE AUTÓNOMO
+#### [2.1. APRENDIZAJE PRÁCTICO EXPERIMENTAL](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)
+#### [2.2. APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)
+#### [2.3. APRENDIZAJE AUTÓNOMO](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)
 ---
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
@@ -79,7 +79,11 @@
 #### ✏️ [APRENDIZAJE PRÁCTICO EXPERIMENTAL](Unidad%201/APE)
 
   *  APE 1: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
+En esta actividad se resolvieron los ejercicios de repaso aplicando los conceptos de proposición, negación, conectivos lógicos y tablas de verdad.
 
+Se identificaron oraciones que son proposiciones, se formularon sus negaciones, se construyeron tablas de verdad, y se tradujeron expresiones entre el lenguaje natural y el simbólico. Además, se evaluaron proposiciones compuestas utilizando valores de verdad dados.
+
+Finalmente, se elaboró un documento en PDF con los ejercicios desarrollados y una reflexión personal sobre lo aprendido y las dificultades encontradas.
 
 #### ✏️ [APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201/ACD)
 
