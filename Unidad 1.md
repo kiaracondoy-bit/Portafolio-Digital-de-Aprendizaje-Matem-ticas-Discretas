@@ -17,10 +17,9 @@
 - **1.6.** APLICACIONES TECNOLÓGICAS
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-#### ✏️ APE
-#### ✏️ ACD
-#### ✏️ AA
-
+#### 2.1. APE
+#### 2.2. ACD
+#### 2.3. AA
 ---
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
