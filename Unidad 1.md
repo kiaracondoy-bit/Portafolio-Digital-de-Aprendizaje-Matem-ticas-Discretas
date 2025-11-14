@@ -28,7 +28,6 @@
 - **Lógica:** ciencia formal que estudia la inferencia válida y la estructura de argumentos.  
 - **Lógica matemática:** aplica métodos formales (proposiciones, tablas, reglas) para razonar y verificar argumentos; útil en demostraciones y verificación de programas.
 
----
 
 #### 🔹 2. PROPOSICIONES LÓGICAS Y CONECTIVAS
 - **Proposición:** enunciado que es verdadero (V) o falso (F).  
@@ -40,7 +39,6 @@
   - Bicondicional: p ↔ q  
 - **Jerarquía (precedencia)**: **Paréntesis** > **¬**  >  **∧**  >  **∨**
 
----
 
 #### 🔹 3. TABLAS DE VERDAD: TAUTOLOGÍA, CONTRADICCIÓN Y CONTINGENCIA
 - **Tabla de verdad:** lista de valores de verdad para todas las combinaciones de variables.  
@@ -48,26 +46,17 @@
 - **Contradicción:** siempre F (ej. p ∧ ¬p).  
 - **Contingencia:** mezcla de V y F según casos.
 
----
 
 #### 🔹 4. LEYES LÓGICAS (selección útil)
 - Doble negación: ¬(¬P) ⇔ P
-
 - De Morgan: ¬(P ∧ Q) ⇔ ¬P ∨ ¬Q ; ¬(P ∨ Q) ⇔ ¬P ∧ ¬Q
-
 - Conmutativa: P ∧ Q ⇔ Q ∧ P ; P ∨ Q ⇔ Q ∨ P
-
 - Asociativa: (P ∧ Q) ∧ R ⇔ P ∧ (Q ∧ R) ; (P ∨ Q) ∨ R ⇔ P ∨ (Q ∨ R)
-
 - Distributiva: P ∧ (Q ∨ R) ⇔ (P ∧ Q) ∨ (P ∧ R) ; P ∨ (Q ∧ R) ⇔ (P ∨ Q) ∧ (P ∨ R)
-
 - Idempotencia: P ∧ P ⇔ P ; P ∨ P ⇔ P
-
 - Complemento: P ∧ ¬P ⇔ F ; P ∨ ¬P ⇔ V
-
 - Identidad: P ∧ T ⇔ P ; P ∨ F ⇔ P
 
----
 
 #### 🔹 5. REGLAS DE INFERENCIA (principales)
 - **Modus Ponens (M.P.)**: de (p→q) y p deduzco q.  
@@ -76,14 +65,12 @@
 - **Silogismo Hipotético**: de p→q y q→r deduzco p→r.  
 - **Silogismo Disyuntivo**: esquema para combinar disyunciones y condicionales.
 
----
 
 #### 🔹 6. APLICACIONES TECNOLÓGICAS
 - Diseño y simplificación de circuitos digitales (NOT, AND, OR, NAND, NOR, XOR).  
 - Verificación lógica de algoritmos y pruebas de consistencia.  
 - Automatización y control (circuitos de control, PLCs, lógica de control).
 
----
 
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
