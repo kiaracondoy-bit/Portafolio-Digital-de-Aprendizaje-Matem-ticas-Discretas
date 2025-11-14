@@ -9,17 +9,17 @@
 
 ### 1. CONTENIDOS DE LA UNIDAD
 
-- **1.1.** LÓGICA Y LÓGICA MATEMÁTICA
-- **1.2.** PROPOSICIONES LÓGICAS Y CONECTIVAS
-- **1.3.** TABLAS DE VERDAD: TAUTOLOGÍA, CONTRADICCIÓN Y CONTINGENCIA
-- **1.4.** LEYES LÓGICAS
-- **1.5.** REGLAS DE INFERENCIA
-- **1.6.** APLICACIONES TECNOLÓGICAS
+- **1.1.** Lógica y Lógica Matemática
+- **1.2.** Proposiciones Lógicas y Conectivas
+- **1.3.** Tablas de Verdad: Tautología, Contradicción y Contingencia
+- **1.4.** Leyes Lógicas
+- **1.5.** Reglas de Inferencia
+- **1.6.** Aplicaciones Tecnlógicas
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-#### [2.1. APRENDIZAJE PRÁCTICO EXPERIMENTAL](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)
-#### [2.2. APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)
-#### [2.3. APRENDIZAJE AUTÓNOMO](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)
+#### [2.1. Aprendizaje Práctico Experimental (APE)](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)
+#### [2.2. Aprendizaje en Contacto con el Docente (ACD)](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)
+#### [2.3. Aprendizaje Autónomo (AA)](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)
 ---
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
@@ -38,7 +38,7 @@
   - Disyunción: p ∨ q  
   - Condicional: p → q  
   - Bicondicional: p ↔ q  
-- **Jerarquía (precedencia)**: ¬  >  ∧  >  ∨  (reduce paréntesis)
+- **Jerarquía (precedencia)**: **Paréntesis** > **¬**  >  **∧**  >  **∨**
 
 ---
 
@@ -51,10 +51,21 @@
 ---
 
 #### 🔹 4. LEYES LÓGICAS (selección útil)
-- Doble negación: ¬(¬P) ⇔ P  
-- De Morgan: ¬(P ∧ Q) ⇔ ¬P ∨ ¬Q ; ¬(P ∨ Q) ⇔ ¬P ∧ ¬Q  
-- Conmutativa: P ∧ Q ⇔ Q ∧ P ; P ∨ Q ⇔ Q ∨ P  
-- Asociativa, Distributiva, Idempotencia, Complemento, Identidad
+- Doble negación: ¬(¬P) ⇔ P
+
+- De Morgan: ¬(P ∧ Q) ⇔ ¬P ∨ ¬Q ; ¬(P ∨ Q) ⇔ ¬P ∧ ¬Q
+
+- Conmutativa: P ∧ Q ⇔ Q ∧ P ; P ∨ Q ⇔ Q ∨ P
+
+- Asociativa: (P ∧ Q) ∧ R ⇔ P ∧ (Q ∧ R) ; (P ∨ Q) ∨ R ⇔ P ∨ (Q ∨ R)
+
+- Distributiva: P ∧ (Q ∨ R) ⇔ (P ∧ Q) ∨ (P ∧ R) ; P ∨ (Q ∧ R) ⇔ (P ∨ Q) ∧ (P ∨ R)
+
+- Idempotencia: P ∧ P ⇔ P ; P ∨ P ⇔ P
+
+- Complemento: P ∧ ¬P ⇔ F ; P ∨ ¬P ⇔ V
+
+- Identidad: P ∧ T ⇔ P ; P ∨ F ⇔ P
 
 ---
 
@@ -80,18 +91,19 @@
 
   *  APE 1: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
 En esta actividad se resolvieron los ejercicios de repaso aplicando los conceptos de proposición, negación, conectivos lógicos y tablas de verdad.
-
 Se identificaron oraciones que son proposiciones, se formularon sus negaciones, se construyeron tablas de verdad, y se tradujeron expresiones entre el lenguaje natural y el simbólico. Además, se evaluaron proposiciones compuestas utilizando valores de verdad dados.
-
 Finalmente, se elaboró un documento en PDF con los ejercicios desarrollados y una reflexión personal sobre lo aprendido y las dificultades encontradas.
 
 #### ✏️ [APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201/ACD)
 
   *  ACD 1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
 
+Este archivo corresponde a la presentación utilizada durante la exposición acerca de los temas introductorios de Matemáticas Discretas. El documento presenta los contenidos de manera visual y organizada, mostrando definiciones, ejemplos aplicados y esquemas que resumen los conceptos más importantes. Además, demuestra el trabajo colaborativo, la capacidad de sintetizar información y la comprensión global de los temas centrales de la unidad. Finalmente, refuerza la relación directa entre la teoría matemática y su uso dentro de la ingeniería en computación.
 
   *  ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
-Esta actividad incluye una explicación clara de cada ley, acompañada de ejemplos prácticos que facilitan su comprensión y permiten ver cómo se aplican en la simplificación y validación de expresiones lógicas.
+
+Esta actividad incluye una explicación clara de cada ley, acompañada de ejemplos prácticos que facilitan su comprensión y permiten ver cómo se aplican en la simplificación y validación de expresiones lógicas. Además, los ejercicios resueltos permiten comprobar cómo estas leyes se utilizan para derivar conclusiones válidas o demostrar la equivalencia entre dos expresiones.
+
 
 #### ✏️ [APRENDIZAJE AUTÓNOMO](Unidad%201/AA)
 
