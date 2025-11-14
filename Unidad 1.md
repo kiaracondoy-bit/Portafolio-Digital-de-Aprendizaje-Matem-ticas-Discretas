@@ -91,7 +91,7 @@ Finalmente, se elaboró un documento en PDF con los ejercicios desarrollados y u
 
 
   *  ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
-
+Esta actividad incluye una explicación clara de cada ley, acompañada de ejemplos prácticos que facilitan su comprensión y permiten ver cómo se aplican en la simplificación y validación de expresiones lógicas.
 
 #### ✏️ [APRENDIZAJE AUTÓNOMO](Unidad%201/AA)
 
