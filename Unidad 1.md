@@ -17,9 +17,9 @@
 - **1.6.** Aplicaciones Tecnlógicas
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
-- **[2.1. Aprendizaje Práctico Experimental (APE)](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)**
-- **[2.2. Aprendizaje en Contacto con el Docente (ACD)](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)**
-- **[2.3. Aprendizaje Autónomo (AA)](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)**
+- **2.1. [Aprendizaje Práctico Experimental (APE)](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)**
+- **2.2. [Aprendizaje en Contacto con el Docente (ACD)](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)**
+- **2.3. [Aprendizaje Autónomo (AA)](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)**
 ---
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
