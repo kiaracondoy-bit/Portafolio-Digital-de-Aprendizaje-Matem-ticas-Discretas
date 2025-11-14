@@ -89,7 +89,7 @@
 
 #### ✏️ [APRENDIZAJE PRÁCTICO EXPERIMENTAL](Unidad%201/APE)
 
-  *  APE 1: RESOLUCIÓN DE EJERCICIOS - GRUPO NeoCore
+  *  APE 1: Resolución de Ejercicios - GRUPO NeoCore
 
   En esta actividad se resolvieron los ejercicios de repaso aplicando los conceptos de proposición, negación, conectivos lógicos y tablas de verdad.
   Se identificaron oraciones que son proposiciones, se formularon sus negaciones, se construyeron tablas de verdad, y se tradujeron expresiones entre el lenguaje   natural y el simbólico. Además, se evaluaron proposiciones compuestas utilizando valores de verdad dados.
@@ -97,16 +97,16 @@
 
 #### ✏️ [APRENDIZAJE EN CONTACTO CON EL DOCENTE](Unidad%201/ACD)
 
-  *  ACD 1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
+  *  ACD 1: Lógica Proposicional, Conectores  Tablas de Verdad
 
   Este archivo corresponde a la presentación utilizada durante la exposición acerca de los temas introductorios de Matemáticas Discretas. El documento presenta     los contenidos de manera visual y organizada, mostrando definiciones, ejemplos aplicados y esquemas que resumen los conceptos más importantes. Además,            demuestra el trabajo colaborativo, la capacidad de sintetizar información y la comprensión global de los temas centrales de la unidad. Finalmente, refuerza la    relación directa entre la teoría matemática y su uso dentro de la ingeniería en computación.
 
-  *  ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
+  *  ACD 2: Implicaciones, Equivalencias y Razonamiento Deductivo (leyes proposicionales y reglas de inferencia))
 
   Esta actividad incluye una explicación clara de cada ley, acompañada de ejemplos prácticos que facilitan su comprensión y permiten ver cómo se aplican en la      simplificación y validación de expresiones lógicas. Además, los ejercicios resueltos permiten comprobar cómo estas leyes se utilizan para derivar conclusiones    válidas o demostrar la equivalencia entre dos expresiones.
 
 
 #### ✏️ [APRENDIZAJE AUTÓNOMO](Unidad%201/AA)
 
-  *  AA 1: LECTURA Y EJERCICIOS
+  *  AA 1: Lectura y Ejercicios
 
