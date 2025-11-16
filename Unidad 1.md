@@ -63,8 +63,13 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 * **Contingencia:** puede ser verdadera o falsa dependiendo del caso.
 
  ***Ejemplo de ejercicio***
+
+ Averiguar si son equivalentes las proposiciones:
  
- <p align= "center"><img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/647c6140-3a80-4f6c-957f-5e9582cce47a" /></p>
+ **(p ∧ q) → r**     y    **(p → r) ∧  (q → r)**
+ 
+ <p align= "center"><img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/ee80e3e0-285c-4607-b316-39898c90ebdc" />
+</p>
 
 ---
 
