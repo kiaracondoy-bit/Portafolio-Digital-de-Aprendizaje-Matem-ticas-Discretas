@@ -63,9 +63,9 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 * **Contradicción:** siempre falsa. Ejemplo: p ∧ ¬p.
 * **Contingencia:** puede ser verdadera o falsa dependiendo del caso.
 
- ***Ejemplo de ejercicio***
+ ***📌 Ejemplo de ejercicio***
 
- Averiguar si son equivalentes las proposiciones:
+ *Averiguar si son equivalentes las proposiciones:*
  
  **(p ∧ q) → r**     *Y*    **(p → r) ∧  (q → r)**
  
