@@ -17,6 +17,5 @@
 ---
 ### 📚 Contenido
 - [UNIDAD 1](Unidad%201.md)
-- [UNIDAD 2]() 🧠
-- [UNIDAD 3]() 🛠️
-- [CONCLUSIONES]() 📝
+- UNIDAD 2 🧠
+- UNIDAD 3 🛠️
