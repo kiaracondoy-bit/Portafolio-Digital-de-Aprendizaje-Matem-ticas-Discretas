@@ -126,8 +126,8 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 Premisa 4: ~p          (M.T.T. (1,2))<br>
 Premisa 5: t           (M.P.P. (3,4))<br>
 
-**∴ t**
-<div>
+**∴ t** 
+</div>
 
 ### 🔹 1.6. Aplicaciones Tecnológicas
 
