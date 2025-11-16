@@ -73,7 +73,7 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 
 ---
 
-### 🔹 1.4. Leyes Lógicas (selección útil)
+### 🔹 1.4. Leyes Lógicas 
 
 * **Doble negación:** ¬(¬P) ⇔ P
 * **De Morgan:**
@@ -117,11 +117,11 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 
  ***Ejemplo de ejercicio***
 
-**Premisa 1: p → S**
-**Premisa 2: ~S**
-**Premisa 3: ~p - t**      
-Premisa 4: ~p          (M.T.T. (1,2))
-Premisa 5: t           (M.P.P. (3,4))
+**Premisa 1: p → S**<br>
+**Premisa 2: ~S**<br>
+**Premisa 3: ~p - t**<br>      
+Premisa 4: ~p          (M.T.T. (1,2))<br>
+Premisa 5: t           (M.P.P. (3,4))<br>
 
 **∴ t**
 
