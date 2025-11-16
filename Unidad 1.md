@@ -62,6 +62,10 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 * **Contradicción:** siempre falsa. Ejemplo: p ∧ ¬p.
 * **Contingencia:** puede ser verdadera o falsa dependiendo del caso.
 
+ ***Ejemplo de ejercicio***
+ 
+ <p align= "center"><img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/647c6140-3a80-4f6c-957f-5e9582cce47a" /></p>
+
 ---
 
 ### 🔹 1.4. Leyes Lógicas (selección útil)
@@ -145,8 +149,6 @@ Refleja el trabajo colaborativo, la capacidad de síntesis y la comprensión gen
 
 Incluye explicaciones detalladas de cada ley lógica, acompañadas de ejemplos prácticos que muestran cómo se aplican para simplificar expresiones y validar argumentos.
 Los ejercicios resueltos permiten observar cómo las leyes y reglas de inferencia ayudan a obtener conclusiones válidas.
-
----
 
 ### ✏️ 2.3. [**APRENDIZAJE AUTÓNOMO (AA)**](Unidad%201/AA)
 
