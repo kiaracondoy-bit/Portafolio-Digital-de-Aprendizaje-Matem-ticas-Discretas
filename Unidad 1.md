@@ -176,6 +176,10 @@ El primero consistió en extraer premisas de un texto y deducir su conclusión.
 El segundo fue un ejercicio enviado por el docente.
 Esta práctica permitió reforzar el razonamiento lógico para obtener una buena calificación en el examen de la unidad.
 
+#### ⭐ *AA 2: El presente Portafolio Digital*
+
+Se desarrolló el portafolio digital de aprendizaje en la plataforma GitHub, que resume lo visto en la Unidad 1 junto con los trabajos y ejemplos de ejercicios desarrollados.
+
 ---
 
 ## 🗂️ 3. CONCLUSIONES PERSONALES
