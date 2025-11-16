@@ -19,9 +19,9 @@
 
 ### 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-- **2.1. [Aprendizaje Práctico Experimental (APE)](Unidad%201.md#%EF%B8%8F-aprendizaje-pr%C3%A1ctico-experimental)**
-- **2.2. [Aprendizaje en Contacto con el Docente (ACD)](Unidad%201.md#%EF%B8%8F-aprendizaje-en-contacto-con-el-docente)**
-- **2.3. [Aprendizaje Autónomo (AA)](Unidad%201.md#%EF%B8%8F-aprendizaje-aut%C3%B3nomo)**
+- **2.1. [Aprendizaje Práctico Experimental (APE)](Unidad%201.md#%EF%B8%8F21-aprendizaje-pr%C3%A1ctico-experimental-ape)**
+- **2.2. [Aprendizaje en Contacto con el Docente (ACD)](Unidad%201.md#%EF%B8%8F-22-aprendizaje-en-contacto-con-el-docente-acd)**
+- **2.3. [Aprendizaje Autónomo (AA)](Unidad%201.md#%EF%B8%8F-23-aprendizaje-aut%C3%B3nomo-aa)**
 
 ### 3. CONCLUSIONES PERSONALES
 
@@ -119,7 +119,7 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 
 ## 🗂️ 2. TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-### ✏️2.1. **APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)**
+### ✏️2.1. [**APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)**](Unidad%201/APE)
 
 #### ⭐ *APE 1: Resolución de Ejercicios*
 
@@ -133,7 +133,7 @@ Las tareas consistieron en:
 * Traducir entre lenguaje natural y simbólico.
 * Evaluar expresiones con valores de verdad.
 
-### ✏️ 2.2. **APRENDIZAJE EN CONTACTO CON EL DOCENTE (ACD)**
+### ✏️ 2.2. [**APRENDIZAJE EN CONTACTO CON EL DOCENTE (ACD)**](Unidad%201/ACD)
 
 #### ⭐ *ACD 1: Lógica Proposicional, Conectores y Tablas de Verdad*
 
@@ -148,7 +148,7 @@ Los ejercicios resueltos permiten observar cómo las leyes y reglas de inferenci
 
 ---
 
-### ✏️ 2.3. **APRENDIZAJE AUTÓNOMO (AA)**
+### ✏️ 2.3. [**APRENDIZAJE AUTÓNOMO (AA)**](Unidad%201/AA)
 
 #### ⭐ *AA 1: Lectura y Ejercicios*
 
