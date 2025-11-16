@@ -66,7 +66,7 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 
  Averiguar si son equivalentes las proposiciones:
  
- **(p ∧ q) → r**     y    **(p → r) ∧  (q → r)**
+ **(p ∧ q) → r**     *Y*    **(p → r) ∧  (q → r)**
  
  <p align= "center"><img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/ee80e3e0-285c-4607-b316-39898c90ebdc" />
 </p>
@@ -114,6 +114,16 @@ A lo largo de la unidad se desarrollaron conceptos esenciales de la lógica mate
 * **Modus Tollendo Ponens:** si (p ∨ q) y ¬p, entonces q.
 * **Silogismo Hipotético:** de p → q y q → r se deduce p → r.
 * **Silogismo Disyuntivo:** combina disyunciones con condicionales para obtener conclusiones lógicas válidas.
+
+ ***Ejemplo de ejercicio***
+
+**Premisa 1: p → S**
+**Premisa 2: ~S**
+**Premisa 3: ~p - t**      
+Premisa 4: ~p          (M.T.T. (1,2))
+Premisa 5: t           (M.P.P. (3,4))
+
+**∴ t**
 
 ---
 
