@@ -1,6 +1,6 @@
 <div align="center">
 
-### 💻✨ UNIDAD 1: LÓGICA MATEMÁTICA Y PROPOSICIONES ✨💻
+### 💻✨ UNIDAD 1: LÓGICA ✨💻
 
 </div>
 
